@@ -1,7 +1,8 @@
 # Green-Lover
-file_clonnig
+
 
 <h3 align="center"> I Fuck Your Bypass system</h3>
+
 
 ## Command
 
