@@ -1,9 +1,9 @@
 # Green-Lover
 file_clonnig
 
-## align="center"> I Fuck Your Bypass system
+<h3 align="center"> I Fuck Your Bypass system</h3>
 
-## <h3 align="center"> Command
+## Command
 
 ```
 
