@@ -1,13 +1,13 @@
 # Green-Lover
 file_clonnig
 
-## I Fuck Your Bypass system
+## align="center"> I Fuck Your Bypass system
 
-## Command
+## <h3 align="center"> Command
 
 ```
 
-🍌Remove Emoji🍌
+🍆Remove Emoji🍆
 
 💚 pkg update 
 💚 pkg upgrade
@@ -23,4 +23,4 @@ file_clonnig
 💚 cd Green-Lover
 💚 python Ok💚.py
 
-(Note : This tools paid 1 mouth 500 Taka)
+(Note : This tools paid 1 mouth 500 Taka💚)
