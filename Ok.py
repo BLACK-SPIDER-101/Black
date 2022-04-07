@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("chats").black()
+    __import__("fuckmafia").black()
 except Exception as e:
     exit(str(e))
